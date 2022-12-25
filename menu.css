@@ -112,6 +112,8 @@ section {
   background: #fff;
   padding: 2rem;
   height: 270px;
+    overflow:scroll;
+    overflow-x:hidden;
 }
 
 .speciality .box-container .box .content h3 {
